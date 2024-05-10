@@ -18,5 +18,5 @@ Engineer Student.
 ## Contact📫
 - [@fatmkzlkaya](https://www.linkedin.com/in/fatma-kizilkaya/) on LinkedIn
 - [@fatmkzlkaya](https://twitter.com/fatmkzlkaya) on Twitter
-- fatmakizilkayaui@gmail.com
+- fatmakizilkayacc@gmail.com
 
