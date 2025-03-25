@@ -3,15 +3,15 @@
   <img src="https://github.com/consguic/consguic/blob/main/giphy.gif" />
 </h1>
 
-I'm Fatma, 23 years old Electrical and Electronic 
-Engineer Student. 
+I'm Fatma, 24 years old Electrical and Electronic 
+Engineer. 
 <:Science and Technology Enthusiast:>
 
 ## Skills🔭
-- 👨‍💻 C, Python
+- 👨‍💻 Python, R
 - 💽 STM32 Microcontroller, Arduino
--  ✔ Altium Designer
-- 👁️ Basic Networking, Cyber Security
+-  ✔ Jira
+- 👁️ Basic Networking, Cyber Security, Prometheus, Grafana, Alert Manager
 - ⚙️ Linux
 
 
