@@ -5,14 +5,14 @@
 
 
 I'm Fatma — a **Science and Technology Enthusiast** 🚀  
-I'm currently learning and growing in the fields of **Data Engineering** and **Machine Learning**.
+I'm currently learning and growing in the fields of **Data Engineering**.
 
 ---
 
 ## Skills 🔧
 
 - 👨‍💻 **Programming:** Python, R
-- ⚙️ **Operating Systems:** Linux(Debian-based distributions and Fedora)
+- ⚙️ **Operating Systems:** Linux(Debian-based distributions)
 - 🛡️ **IT & DevOps:** Basic Networking, Cyber Security, Prometheus, Grafana, Alert Manager
 - 🛢️ **Databases**: SQL
 - 💽 **Embedded Systems:** STM32 Microcontrollers, Arduino
