@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋
+<h1 align="center">
+  <img src="https://github.com/consguic/consguic/blob/main/giphy.gif" />
+</h1>
 
-<!--
-**consguic/consguic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Fatma — a **Science and Technology Enthusiast** 🚀  
+I'm currently learning and growing in the fields of **Data Engineering** and **Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills 🔧
+
+- 👨‍💻 **Programming:** Python, R
+- ⚙️ **Operating Systems:** Linux(Debian-based distributions and Fedora)
+- 🛡️ **IT & DevOps:** Basic Networking, Cyber Security, Prometheus, Grafana, Alert Manager
+- 🛢️ **Databases**: SQL
+- 💽 **Embedded Systems:** STM32 Microcontrollers, Arduino
+- ✔️ **Project Management Tools:** Jira, Confluence
+
+---
+
+## Contact📫
+- fatmakizilkayacc@gmail.com
